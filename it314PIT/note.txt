@@ -1,3 +1,6 @@
 - SEMI FINALS
 
--> Page about the subject
+-> Create your own XAMPP-VSCode-giithub website
+-> Screenshot (htdocs folder, vscode folder, html code, github) 
+    and add link for repo
+-> Filename: ex. MABAYLAN, PATRICIA GRACE - SEMIFINAL PIT
